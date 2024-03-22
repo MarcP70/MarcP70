@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
-<h3 align="center">A passionate backend and frontend developer from France</h3>
+<h3 align="center">Cybersecurity expert</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MarcP70](https://github.com/MarcP70)
 

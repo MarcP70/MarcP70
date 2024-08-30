@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
-<h3 align="center">Cybersecurity expert</h3>
+<h3 align="center">Full-Stack engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MarcP70](https://github.com/MarcP70)
 
